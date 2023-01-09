@@ -1,0 +1,25 @@
+{
+  "author": "flubb",
+  "build": 114353,
+  "category": [
+	"classic",
+	"titans",
+	"ranked",
+	"ui"
+  ],
+  "context": "client",
+  "date": "2020-06-04",
+  "description": "Struggling to rank up? Do you need to know what rank you are to 3 decimal places? Do you wonder what rank that last guy was? This mod helps with most of those things! (Skill not guaranteed)",
+  "display_name": "Improved Leaderboard",
+  "forum": "https://forums.planetaryannihilation.com/threads/improved-leaderboard.73474/",
+  "identifier": "com.flubbateios.better-leaderboard",
+  "signature": "arr me hearties",
+  "version": "1.0.0",
+  "icon":"https://i.imgur.com/Gc2uq8d.png",
+  "priority": 100,
+  "scenes": {
+	"leaderboard": [
+	  "coui://ui/mods/com.flubbateios.better-leaderboard/leaderboard.js"
+	]
+  }
+}
