@@ -1,4 +1,4 @@
-loadCSS('coui://ui/mods/com.flubbateios.better-leaderboard/style.css');
+loadCSS('coui://ui/mods/com.pa.flubb.better-leaderboard/style.css');
 const oldLBU = LeaderboardUtility.RankedPlayerModel;
 const newRPModel = function(lp,dn,e){
 	this.ratingUnstableRaw = e.VolatileRating;
